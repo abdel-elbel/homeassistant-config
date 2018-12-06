@@ -12,3 +12,4 @@ __pycache__
 /docs/_*
 test.py
 ~.pypirc
+*.yaml
