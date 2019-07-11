@@ -1,7 +1,7 @@
 # Home Assistant Configuration
 Configuration files from my Home-Assistant installation, running on a Raspberry Pi 3 B+.
 
-## Setup
+## My Setup
 ![Diagram](https://github.com/abdel-elbel/homeassistant-config/raw/master/www/images/diagram.png)
 
 ## My Appartment 
