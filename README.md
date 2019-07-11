@@ -8,28 +8,28 @@ Configuration files from my Home-Assistant installation, running on a Raspberry 
 ![floorplan](https://github.com/abdel-elbel/homeassistant-config/raw/master/www/images/floorplan.gif)
 
 ## Panels
-- Main Panel
+Main Panel
 ![Panel1](https://github.com/abdel-elbel/homeassistant-config/raw/master/www/images/captures/1.PNG)
 
-- Weather Panel
+Weather Panel
 ![Panel2](https://github.com/abdel-elbel/homeassistant-config/raw/master/www/images/captures/2.PNG)
 
-- Device Panel
+Device Panel
 ![Panel3](https://github.com/abdel-elbel/homeassistant-config/raw/master/www/images/captures/3.PNG)
 
-- Media Center Panel
+Media Center Panel
 ![Panel4](https://github.com/abdel-elbel/homeassistant-config/raw/master/www/images/captures/4.PNG)
 
-- Pollution Panel
+Pollution Panel
 ![Panel5](https://github.com/abdel-elbel/homeassistant-config/raw/master/www/images/captures/5.PNG)
 
-- Time Tracking Panel
+Time Tracking Panel
 ![Panel6](https://github.com/abdel-elbel/homeassistant-config/raw/master/www/images/captures/6.PNG)
 
-- Météo-France Alerts Panel
+Météo-France Alerts Panel
 ![Panel7](https://github.com/abdel-elbel/homeassistant-config/raw/master/www/images/captures/7.PNG)
 
-- Calendar Panel
+Calendar Panel
 ![Panel9](https://github.com/abdel-elbel/homeassistant-config/raw/master/www/images/captures/9.PNG)
 
 ## Notable Use Cases 
