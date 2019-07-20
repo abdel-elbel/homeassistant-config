@@ -50,4 +50,5 @@ Calendar Panel
 [Under construction]
 
 ## References
-[Under construction]
+[Still Under construction]
+Floorplan created using Sweet Home 3D 
