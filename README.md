@@ -36,20 +36,27 @@ Calendar Panel
 - Saying 'Hey Google, Allume la PS4' ->  Switch on the PS4
 - Saying 'Hey Google, Mets Netflix' -> Launch Netflix on the PS4 
 - Saying 'Hey Google, Mets TF1' -> Launch Molotov TV on Android TV + Use the Harmony Remote to select Channel '1'
-- Saying 'Hey Google, Mute' -> Use the Harmony Remote to select 'Mute'
+- Saying 'Hey Google, Mute' -> Use the Harmony Remote to send a radio-signal 'Mute'
 - If Owner is recongnised by Camera -> Greet him by name via Text-to-Speech on Google Home's speaker 
 - If Pollution alert for next day -> Send Alert via SMS 
 - If CO2 level too high -> Send Alert via Pushbullet 
 - If Weather alert for next day -> Send Alert via SMS 
 - If Rain expected for next day -> Send Alert via SMS 
-- If More than 2h/day of Game Playing on PS4 -> Send Alert via SMS
+- If UV for next day is higher than 2 -> Send Reminder to bring sunglasses
+- If more than 2h/day spent on Game Playing on PS4 -> Send Alert via SMS
 - If Presence Detected at Home while Owner's GPS signal is Away -> Send Alert via SMS
+- If activated, movie ambilight on TV (Kodi) : extract (every 10ms) 3 main colors from TV and replicate them in the room using the color light bulbs
 - Etc.
 
-## Included devices:
-[Under construction]
-
+## Devices:
+- Philips Hue : Hue Bridge 2.0, 3 x Color Bulbs, 3 x White Ambiance Bulbs, 2 x remote controls, 2 x presence detector (temperature+light sensors included)
+   * light and color control, temperature (°C), light (lux), presence (binary), button pressed on remote controls (binary)
+- Netatmo : main module, exterior module, additional indoor module  
+   * temperature (°C), humidity (%), pression (mbar), C02 concentration (ppm), noise (dB)
+- Camera : Xiaomi YI Home Camera 720p  https://www.yitechnology.com/yi-home-camera
+- Wifi Smart Plug : Oittm (powered by tuya / Smart Life)
+- Wifi/Ethernet Device Scanner (router) : Owner's Phone (when Wifi is on), Owner's smartwatch (when Wifi is on), Computer, PS4, Android TV, etc.  
+- Bluetooth Device Scanner (Raspberry Pi) : Owner's Phone (when BT is on), Owner's smartwhatch (when BT is on), 6 keeper (preseance beacons), Owner's headphones, etc
 ## References
-[Still Under construction]
 - Floorplan created using Sweet Home 3D [http://www.sweethome3d.com]
-- Setuo Diagram created using draw.io [http://draw.io]
+- Setup Diagram created using draw.io [http://draw.io]
