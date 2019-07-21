@@ -45,8 +45,8 @@ Calendar Panel
 - If UV for next day is higher than 2 -> Send Reminder to bring sunglasses
 - If more than 2h/day spent on Game Playing on PS4 -> Send Alert via SMS
 - If Presence Detected at Home while Owner's GPS signal is Away -> Send Alert via SMS
-- Every Night at 2 am, create a back-up (setup+data) and upload it to Google Drive
-- Room movie ambilight : when activated, a python script runs on Kodi (Android TV) every 10ms to extract 3 main colors from TV and replicate them in the room using the 3 color light bulbs in the room (WOW effect guaranteed ;) ) 
+- Every Night at 2 am, a back-up is created (setup+data) and uploaded to Google Drive
+- Room movie ambilight : when activated, a python script runs on Kodi (Android TV) every 10ms to extract 3 main colors (and intensity) from TV and replicates them in the room using the 3 color light bulbs in the room (WOW effect guaranteed ;) ) 
 - Etc. 
 
 ## Devices:
