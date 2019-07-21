@@ -51,4 +51,5 @@ Calendar Panel
 
 ## References
 [Still Under construction]
-Floorplan created using Sweet Home 3D 
+- Floorplan created using Sweet Home 3D [http://www.sweethome3d.com]
+- Setuo Diagram created using draw.io [http://draw.io]
